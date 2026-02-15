@@ -37,9 +37,9 @@ Supports 10+ Indian languages including Hindi, Tamil, Telugu, Bengali, and more.
 
 ## 📧 Contact
 
-[Your Name]
-[Your Email]
-[Your GitHub/LinkedIn]
+Saurav Shandilya
+sauravshandilyaaa@gmail.com
+
 
 ---
 
